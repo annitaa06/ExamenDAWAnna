@@ -1,2 +1,4 @@
+
 contenido fichero datos.txt
 Inicio
+Fin
